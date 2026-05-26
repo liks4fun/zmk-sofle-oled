@@ -71,7 +71,7 @@
 &trans      &trans           &mkp LCLK       &mkp MCLK        &kp PSCRN        &kp LA(SPACE)      &mmv MOVE_DOWN   &trans        &kp KP_N7        &kp KP_N8   &kp KP_N9  &trans    &kp F11
 &trans      &kp TILDE        &trans          &trans           &kp LBKT         &kp RBKT           &mmv MOVE_LEFT   &trans        &kp KP_N4        &kp KP_N5   &kp KP_N6  &trans    &kp F12
 &trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &kp LG(LC(LEFT)) &kp LG(LC(RIGHT))  &mmv MOVE_RIGHT  &trans        &kp KP_N1        &kp KP_N2   &kp KP_N3  &trans    &trans
-&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans        &kp KP_N0        &trans      &trans     &trans
+&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &kp DELETE    &kp KP_N0        &trans      &trans     &trans
             >;
 
             display-name = "L1";
